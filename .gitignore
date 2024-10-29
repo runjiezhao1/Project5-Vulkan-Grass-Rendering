@@ -1,0 +1,4 @@
+*.exe
+*.pdb
+bin/Release/vulkan_grass_rendering.exe
+build/
